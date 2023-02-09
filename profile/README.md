@@ -1,7 +1,7 @@
-<center>
-<img src="../assets/imgs/image.png" style="max-width: 350px" /><br />
-<h2>Open Source for the enterprise applications ecossystem.</h2>
-</center>
+<p align="center">
+<img height="200" src="https://raw.githubusercontent.com/gravatats/.github/main/assets/imgs/image.png"/>
+</p>
+<h2 align="center">Open Source for the enterprise applications ecossystem.</h2>
 <br />
 <br />
 
